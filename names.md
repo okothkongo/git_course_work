@@ -1,2 +1,2 @@
 # These are the members:
-1.Joel
+1.Joel Koyoo
